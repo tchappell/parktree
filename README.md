@@ -8,8 +8,8 @@ parallel k-tree clustering for biological sequences using topological signatures
 * -sw [signature width (default = 256)]
 * -k [kmer length (default = 5)]
 * -d [signature density (default = 0.0476..)]
-* -c [cluster count (default = 1000)]
-* -i [k-means iterations (default = 4)]
+* -o [tree order (default = 10)]
+* -c [capacity (default = 1000000)]
 * --fasta-output
 
 ## Requirements
