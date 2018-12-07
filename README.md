@@ -48,7 +48,7 @@ When signatures are created from sequences, each k-mer is hashed into a k-mer si
 
 The number of child nodes each node of the tree can reach before splitting.
 
-### -o [tree capacity]
+### -c [tree capacity]
 
 The number of nodes that can be allocated to the tree during construction.
 
